@@ -1,3 +1,3 @@
 # githubpractive
-layer2の練習
-やっほ
+💻 layer2の練習
+💻 やっほ
